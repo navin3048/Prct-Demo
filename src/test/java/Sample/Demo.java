@@ -16,6 +16,8 @@ public class Demo {
 	public void demo1()
 	{
 		System.out.println("This is demo1");
+		
+		System.out.println("Update");
 	}
 
 }
